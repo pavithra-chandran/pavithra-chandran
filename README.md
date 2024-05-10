@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1B0xV91FUwm1nvY6EIgf3pUxF6JcK7cTY/view?usp=drive_link" align="center" height="" width="600" />
+<img src="https://github.com/pavithra-chandran/Portfolio/blob/main/images/IMG_5032%20-%20Copy.png" align="center" height="" width="600" />
 </div>  
   
 
